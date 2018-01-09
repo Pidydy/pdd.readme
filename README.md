@@ -1,0 +1,2 @@
+# pdd.readme
+open mind
